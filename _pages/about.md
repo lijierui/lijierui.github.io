@@ -37,8 +37,7 @@ Math Word Problems: Work on one specific task with different methods. My main in
 **Tencent AI Lab** @Shenzhen  
 Research Intern			*Sep 2019 - Jun 2020*  
 Research Intern at Tencent AI Lab, NLP center, supervised by [Dr. Lemao Liu](https://lemaoliu.github.io/homepage/).  
-Evaluating Explanation Methods for NMT: We propose a simulating-based automatic evaluation method to evaluate explanation methods for Neural Machine Translation.
-Attention's Interpretability: Follow a series of works to analyze the interpretability of attention mechanism and discuss the seemingly contradictory conclusions presented in previous papers.
+Evaluating Explanation Methods for NMT: We propose a simulating-based automatic evaluation method to evaluate explanation methods for Neural Machine Translation.  Attention's Interpretability: Follow a series of works to analyze the interpretability of attention mechanism and discuss the seemingly contradictory conclusions presented in previous papers.
 
 **SUTD StatNLP Lab** @Singapore  
 Research Assistant		 *Jan 2021 - Aug 2021*  
@@ -49,7 +48,7 @@ Structured Math Word Problem Solving: I am working on a project where we propose
 Publication
 ------
 
-[**Modeling Intra-Relation in Math Word Problems with Different Functional Multi-Head Attentions**](https://aclanthology.org/P19-1619/) In ACL2019
+[**Modeling Intra-Relation in Math Word Problems with Different Functional Multi-Head Attentions**](https://aclanthology.org/P19-1619/) In ACL2019
 Jierui Li, Lei Wang, Jipeng Zhang, Yan Wang, Bing Tian Dai and Dongxiang Zhang
 
 [**Evaluating Explanation Methods for Neural Machine Translation**](https://aclanthology.org/2020.acl-main.35/) In ACL2020
