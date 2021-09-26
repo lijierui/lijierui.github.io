@@ -32,29 +32,24 @@ Ph.D. Student in Computer Science
 
 **Center for Future Media** @UESTC
 Student 				*Oct 2018 - Jun 2019*
-Math Word Problems: Work on one specic task with dierent methods. My main interest and focus are
-exploring neural networks for reasoning with math word problems as a window.
-
+Math Word Problems: Work on one specific task with different methods. My main interest and focus are exploring neural networks for reasoning with math word problems as a window.
+
 **Tencent AI Lab** @Shenzhen
 Research Intern			*Sep 2019 - Jun 2020*
 Research Intern at Tencent AI Lab, NLP center, supervised by [Dr. Lemao Liu](https://lemaoliu.github.io/homepage/).
- Evaluating Explanation Methods for NMT: We propose a simulating-based automatic evaluation method to
-evaluate explanation methods for Neural Machine Translation.
- Attention's Interpretability: Follow a series of works to analyze the interpretability of attention mechanism and
-discuss the seemingly contradictory conclusions presented in previous papers.
-
-**SUTD StatNLP Lab** @Singapore
-Research Assitant		 *Jan 2021 - Aug 2021*
-Research Assistant supervised by [Prof. Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei), at Singapore University of Technology and Design.
- Structured Math Word Problem Solving: I am working on a project where we propose a parser to parse math
-word problems into specially structured formulations.
+Evaluating Explanation Methods for NMT: We propose a simulating-based automatic evaluation method to evaluate explanation methods for Neural Machine Translation.
+Attention's Interpretability: Follow a series of works to analyze the interpretability of attention mechanism and discuss the seemingly contradictory conclusions presented in previous papers.
 
+**SUTD StatNLP Lab** @Singapore
+Research Assistant		 *Jan 2021 - Aug 2021*
+Research Assistant supervised by [Prof. Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei), at Singapore University of Technology and Design.
+Structured Math Word Problem Solving: I am working on a project where we propose a parser to parse math word problems into specially structured formulations.
 
 
 Publication
 ------
 
-[**Modeling Intra-Relation in Math Word Problems with Dierent Functional Multi-Head Attentions**](https://aclanthology.org/P19-1619/) In ACL2019
+[**Modeling Intra-Relation in Math Word Problems with Different Functional Multi-Head Attentions**](https://aclanthology.org/P19-1619/) In ACL2019
 Jierui Li, Lei Wang, Jipeng Zhang, Yan Wang, Bing Tian Dai and Dongxiang Zhang
 
 [**Evaluating Explanation Methods for Neural Machine Translation**](https://aclanthology.org/2020.acl-main.35/) In ACL2020
