@@ -55,4 +55,4 @@ Jierui Li, Lei Wang, Jipeng Zhang, Yan Wang, Bing Tian Dai and Dongxiang Zhang
 Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi
 
 [**Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction**](https://aclanthology.org/2022.acl-long.410/) In ACL 2022  
-Zhanming Jie, Jierui Li, Wei Lu
+Zhanming Jie, Jierui Li, and Wei Lu
