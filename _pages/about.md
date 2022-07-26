@@ -54,5 +54,5 @@ Jierui Li, Lei Wang, Jipeng Zhang, Yan Wang, Bing Tian Dai and Dongxiang Zhang
 [**Evaluating Explanation Methods for Neural Machine Translation**](https://aclanthology.org/2020.acl-main.35/) In ACL 2020  
 Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi
 
-[**Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction**](https://aclanthology.org/2022.acl-long.410/) In ACL 2022
+[**Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction**](https://aclanthology.org/2022.acl-long.410/) In ACL 2022  
 Zhanming Jie, Jierui Li, Wei Lu
