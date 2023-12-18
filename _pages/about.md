@@ -10,11 +10,7 @@ redirect_from:
 
 I'm Jierui Li, a Ph.D. student at computer science department, University of Texas at Austin, advised by [Prof. Raymond Mooney](https://www.cs.utexas.edu/~mooney/). I obtained my bachelor's degree in computer science from University of Electronic Science and Technology of China. 
 
-
-
-I'm interested in many topics in natural language processing, including math word problems, interpretability, machine translation and schema learning.
-
-
+My current research focus is learning algorithmic reasoning and code generation for competitive-level challenges with large language models. I'm generally interested in Natural Language Processing(NLP)
 
 Education
 ------
@@ -44,6 +40,10 @@ Research Assistant		 *Jan 2021 - Aug 2021*
 Research Assistant supervised by [Prof. Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei), at Singapore University of Technology and Design.
 Structured Math Word Problem Solving: I am working on a project where we propose a parser to parse math word problems into specially structured formulations.
 
+**Grammarly Inc** @San Francisco
+Applied Research Intern *May 2023 - Aug 2023*
+Highlighted the task of detecting self-contradictions in documents and proposed an annotated dataset for document-level self-contradiction detection to study self-contradictions in documents across multiple domains, varying document lengths, self-contradiction types, and scope while evaluating SOTA LLMs on our dataset with evaluation metrics designed for LLMs.
+
 
 Publication
 ------
@@ -55,4 +55,10 @@ Jierui Li, Lei Wang, Jipeng Zhang, Yan Wang, Bing Tian Dai and Dongxiang Zhang
 Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi
 
 [**Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction**](https://aclanthology.org/2022.acl-long.410/) In ACL 2022  
-Zhanming Jie, Jierui Li, and Wei Lu
+Zhanming Jie, Jierui Li and Wei Lu
+
+[**Explaining Competitive-Level Programming Solutions using LLMs**](https://arxiv.org/abs/2307.05337) Presented in NLRSE 2023
+Jierui Li, Szymon Tworkowski, Yingying Wu and Raymond Mooney
+
+[**Explaining Competitive-Level Programming Solutions using LLMs**](https://arxiv.org/abs/2311.09182) preprint
+Jierui Li}, Vipul Raheja and Dhruv Kumar
