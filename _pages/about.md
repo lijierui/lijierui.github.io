@@ -57,8 +57,8 @@ Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi
 [**Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction**](https://aclanthology.org/2022.acl-long.410/) In ACL 2022  
 Zhanming Jie, Jierui Li and Wei Lu
 
-[**Explaining Competitive-Level Programming Solutions using LLMs**](https://arxiv.org/abs/2307.05337) Presented in NLRSE 2023
+[**Explaining Competitive-Level Programming Solutions using LLMs**](https://arxiv.org/abs/2307.05337) Presented in NLRSE 2023  
 Jierui Li, Szymon Tworkowski, Yingying Wu and Raymond Mooney
 
-[**Explaining Competitive-Level Programming Solutions using LLMs**](https://arxiv.org/abs/2311.09182) preprint
+[**Explaining Competitive-Level Programming Solutions using LLMs**](https://arxiv.org/abs/2311.09182) preprint  
 Jierui Li, Vipul Raheja and Dhruv Kumar
