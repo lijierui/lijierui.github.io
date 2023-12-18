@@ -61,4 +61,4 @@ Zhanming Jie, Jierui Li and Wei Lu
 Jierui Li, Szymon Tworkowski, Yingying Wu and Raymond Mooney
 
 [**Explaining Competitive-Level Programming Solutions using LLMs**](https://arxiv.org/abs/2311.09182) preprint
-Jierui Li}, Vipul Raheja and Dhruv Kumar
+Jierui Li, Vipul Raheja and Dhruv Kumar
